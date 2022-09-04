@@ -1,0 +1,14 @@
+
+.jumbotron {
+    background-image: url("../images/jumbotron.png");
+    background-size: 100% 100%;
+    text-align: center;
+  } 
+
+.panel {
+    background-color: aqua;
+}
+
+.well {
+    background-color: aqua;
+}
