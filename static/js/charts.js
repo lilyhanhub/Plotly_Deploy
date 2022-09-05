@@ -160,8 +160,8 @@ function buildCharts(sample) {
         { range: [4, 6], color: "yellow" },
         { range: [6, 8], color: "yellowgreen" },
         { range: [8, 10], color: "green" },
-        ],
-      }
+          ],
+         }
     }];
     
 // 5. Create the layout for the gauge chart.
